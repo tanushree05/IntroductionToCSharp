@@ -11,3 +11,4 @@ C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.c
 C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.dll
 C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.pdb
 C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.genruntimeconfig.cache
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.sourcelink.json
