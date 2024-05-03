@@ -1,0 +1,13 @@
+C:\Users\singh\Source\Repos\Codefile\Codefile\bin\Debug\netcoreapp3.1\Codefile.exe
+C:\Users\singh\Source\Repos\Codefile\Codefile\bin\Debug\netcoreapp3.1\Codefile.deps.json
+C:\Users\singh\Source\Repos\Codefile\Codefile\bin\Debug\netcoreapp3.1\Codefile.runtimeconfig.json
+C:\Users\singh\Source\Repos\Codefile\Codefile\bin\Debug\netcoreapp3.1\Codefile.runtimeconfig.dev.json
+C:\Users\singh\Source\Repos\Codefile\Codefile\bin\Debug\netcoreapp3.1\Codefile.dll
+C:\Users\singh\Source\Repos\Codefile\Codefile\bin\Debug\netcoreapp3.1\Codefile.pdb
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.AssemblyInfoInputs.cache
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.AssemblyInfo.cs
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.csproj.CoreCompileInputs.cache
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.dll
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.pdb
+C:\Users\singh\Source\Repos\Codefile\Codefile\obj\Debug\netcoreapp3.1\Codefile.genruntimeconfig.cache
