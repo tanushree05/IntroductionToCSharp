@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\singh\\Source\\Repos\\Codefile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400021DA-8585-4A50-BA2A-079F8288F943}|Codefile\\Codefile.csproj|c:\\users\\singh\\source\\repos\\codefile\\codefile\\codefile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{400021DA-8585-4A50-BA2A-079F8288F943}|Codefile\\Codefile.csproj|solutionrelative:codefile\\codefile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400021DA-8585-4A50-BA2A-079F8288F943}|Codefile\\Codefile.csproj|c:\\users\\singh\\source\\repos\\codefile\\codefile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400021DA-8585-4A50-BA2A-079F8288F943}|Codefile\\Codefile.csproj|solutionrelative:codefile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400021DA-8585-4A50-BA2A-079F8288F943}|Codefile\\Codefile.csproj|c:\\users\\singh\\source\\repos\\codefile\\codefile\\arrayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400021DA-8585-4A50-BA2A-079F8288F943}|Codefile\\Codefile.csproj|solutionrelative:codefile\\arrayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Codefile",
+              "DocumentMoniker": "C:\\Users\\singh\\Source\\Repos\\Codefile\\Codefile\\Codefile.csproj",
+              "RelativeDocumentMoniker": "Codefile\\Codefile.csproj",
+              "ToolTip": "C:\\Users\\singh\\Source\\Repos\\Codefile\\Codefile\\Codefile.csproj",
+              "RelativeToolTip": "Codefile\\Codefile.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T08:17:50.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arrayProgram.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Source\\Repos\\Codefile\\Codefile\\arrayProgram.cs",
+              "RelativeDocumentMoniker": "Codefile\\arrayProgram.cs",
+              "ToolTip": "C:\\Users\\singh\\Source\\Repos\\Codefile\\Codefile\\arrayProgram.cs",
+              "RelativeToolTip": "Codefile\\arrayProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:32:48.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Source\\Repos\\Codefile\\Codefile\\Program.cs",
+              "RelativeDocumentMoniker": "Codefile\\Program.cs",
+              "ToolTip": "C:\\Users\\singh\\Source\\Repos\\Codefile\\Codefile\\Program.cs",
+              "RelativeToolTip": "Codefile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:02:56.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
